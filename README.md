@@ -3,35 +3,89 @@
 Portfolio of CPE 010 Course.
 
 
-## Course Description
-This course focuses on solving computational problems that manipulate collected data, studying a core set of data abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks, trees (including binary and multi-way trees), heaps, stacks, and priority queues. Search topics, including hashing, trees, external search trees (B-trees), and fundamentals of sorting algorithms with external sorting are introduced and compared. The student's outcome is to design algorithms for each data structure and to use data structures and algorithms in the design of an effective program or software application that will solve a particular engineering-related problem using C++.
 
-## Course Roadmap
+## Course Description 📖
+This course focuses on solving computational problems that manipulate collected data, studying a core set of data abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including **graphs, networks, trees (including binary and multi-way trees), heaps, stacks, and priority queues**. Search topics, including **hashing, trees, external search trees (B-trees), and fundamentals of sorting algorithms with external sorting** are introduced and compared. The student's outcome is to design algorithms for each data structure and to use data structures and algorithms in the design of an effective program or software application that will solve a particular engineering-related problem using C++.
+
+## Course Roadmap 🛣️
+
 
 <table>
   <tbody>
     <tr>
       <td align="center"><strong>Prelim</strong></td>
-      <td align="left">Course orientation, C++ programming review, abstract data types, and arrays.</td>
+      <td align="left">Course orientation, C++ programming review, abstract data types, space and time complexity, arrays, linked lists, dynamic memory allocation, and stacks..</td>
     </tr>
     <tr>
       <td align="center"><strong>Midterm</strong></td>
-      <td align="left">Queues, searching techniques, hashing, and sorting algorithms.</td>
+      <td align="left">Queues, searching techniques, linear search, binary search, hashing, and basic sorting algorithms.</td>
     </tr>
     <tr>
       <td align="center"><strong>Finals</strong></td>
-      <td align="left">Trees, graphs, traversal algorithms, and complexity analysis.</td>
+      <td align="left">Trees, binary search trees, AVL trees, traversal algorithms, graphs, adjacency matrix and list, breadth-first search, depth-first search, and algorithm complexity analysis.</td>
     </tr>
   </tbody>
 </table>
 
-## Assignments
+## Assignments 📚
 
+### Prelim
+<details>
+<summary>Expand</summary>
+<br>
 <table>
   <thead>
     <tr><th align="left">Activity Name</th><th align="left">Status</th><th align="left">Score</th>
   </thead>
   <tbody>
     <tr><td align="left">Hands-on Activity 1.1 Basic C++ Programming</td><td align="left">Completed 🟢</td></td><td align="left">8/24 🟠</td></tr>
+  </tbody>
+</table>
+</details>
+
+### Midterm
+<details>
+<summary>Expand</summary>
+<br>
+<table>
+  <thead>
+    <tr><th align="left">Activity Name</th><th align="left">Status</th><th align="left">Score</th>
+  </thead>
+  <tbody>
+    <tr><td align="left">Hands-on Activity 1.1 Basic C++ Programming</td><td align="left">Completed 🟢</td></td><td align="left">8/24 🟠</td></tr>
+  </tbody>
+</table>
+</details>
+
+### Finals
+<details>
+<summary>Expand</summary>
+<br>
+<table>
+  <thead>
+    <tr><th align="left">Activity Name</th><th align="left">Status</th><th align="left">Score</th>
+  </thead>
+  <tbody>
+    <tr><td align="left">Hands-on Activity 1.1 Basic C++ Programming</td><td align="left">Completed 🟢</td></td><td align="left">8/24 🟠</td></tr>
+  </tbody>
+</table>
+</details>
+
+## Student Information 🪪
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Name</strong></td>
+      <td align="left">Lenard L. Bautista</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Section</strong></td>
+      <td align="left">CPE21S4</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>School</strong></td>
+      <td align="left">Technological Institute of the Philippines - Quezon City🟡⚪</td>
+    </tr>
   </tbody>
 </table>
