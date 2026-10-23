@@ -10,9 +10,18 @@ This course focuses on solving computational problems that manipulate collected 
 
 <table>
   <tbody>
-    <tr><td align="center">**Prelim**</td><td align="left">Course orientation, C++ programming review, abstract data types, space and time complexity, arrays, linked lists, dynamic memory allocation, and stacks. </td></tr>
-    <tr><td align="center">**Midterm**</td><td align="left">Queues, searching techniques, linear search, binary search, hashing, and basic sorting algorithms </td></tr>
-    <tr><td align="center">**Finals**</td><td align="left">Trees, binary search trees, AVL trees, traversal algorithms, graphs, adjacency matrix and list, breadth-first search, depth-first search, and algorithm complexity analysis. </td></tr>
+    <tr>
+      <td align="center"><strong>Prelim</strong></td>
+      <td align="left">Course orientation, C++ programming review, abstract data types, and arrays.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Midterm</strong></td>
+      <td align="left">Queues, searching techniques, hashing, and sorting algorithms.</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Finals</strong></td>
+      <td align="left">Trees, graphs, traversal algorithms, and complexity analysis.</td>
+    </tr>
   </tbody>
 </table>
 
